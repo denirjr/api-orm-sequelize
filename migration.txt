@@ -1,0 +1,2 @@
+ npx sequelize-cli db:migrate ==> migrate db model
+ npx sequelize-cli db:seed:all ==> Concect to DB and send infos
